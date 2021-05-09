@@ -1,0 +1,1 @@
+enum ScreenSizes { extraLarge, large, medium, small, extraSmall, twoExtraSmall }
